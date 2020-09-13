@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\GamePuzzle\GamePuzzle\bin\Debug\GamePuzzle.exe.config
+C:\Users\Admin\source\repos\GamePuzzle\GamePuzzle\bin\Debug\GamePuzzle.exe
+C:\Users\Admin\source\repos\GamePuzzle\GamePuzzle\bin\Debug\GamePuzzle.pdb
+C:\Users\Admin\source\repos\GamePuzzle\GamePuzzle\obj\Debug\GamePuzzle.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\GamePuzzle\GamePuzzle\obj\Debug\GamePuzzle.Properties.Resources.resources
+C:\Users\Admin\source\repos\GamePuzzle\GamePuzzle\obj\Debug\GamePuzzle.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\GamePuzzle\GamePuzzle\obj\Debug\GamePuzzle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GamePuzzle\GamePuzzle\obj\Debug\GamePuzzle.exe
+C:\Users\Admin\source\repos\GamePuzzle\GamePuzzle\obj\Debug\GamePuzzle.pdb
+C:\Users\Admin\source\repos\GamePuzzle\GamePuzzle\obj\Debug\GamePuzzle.frmPuzzleGame.resources
